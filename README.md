@@ -1,9 +1,9 @@
-Calculadora
+## Calculadora
 
 Esta calculadora fue desarrollada como prueba para repasar lo aprendido con python. 
 
 
-Tecnologias utlizadas:
+### Tecnologias utlizadas:
 
 * python 3.11.5
 
